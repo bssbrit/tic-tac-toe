@@ -34,4 +34,8 @@ h1 {
 
 #gameBoard {
   display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 5px;
+}
+#gameboard div {
 }
