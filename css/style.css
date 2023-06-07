@@ -39,3 +39,10 @@ h1 {
 }
 #gameboard div {
 }
+
+.checkSquare {
+  margin: 5px;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+}
